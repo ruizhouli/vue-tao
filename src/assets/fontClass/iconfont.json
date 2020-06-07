@@ -1,0 +1,37 @@
+{
+  "id": "1868052",
+  "name": "汽车",
+  "font_family": "iconfont",
+  "css_prefix_text": "iruizhou",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3426581",
+      "name": "查询",
+      "font_class": "chaxun",
+      "unicode": "e8d3",
+      "unicode_decimal": 59603
+    },
+    {
+      "icon_id": "6719132",
+      "name": "首页-选中",
+      "font_class": "yemianin",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "8902293",
+      "name": "帮助中心",
+      "font_class": "bangzhuzhongxin",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "9422722",
+      "name": "我 的",
+      "font_class": "wode-copy-copy",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
