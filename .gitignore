@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 node_modules
+=======
+/myapp/node_modules/
+>>>>>>> c4d5f67af421c123b75f7d71354860c4ec5d9d16
